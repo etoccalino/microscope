@@ -3,6 +3,7 @@
     "router": {},
     "accounts-ui-bootstrap-dropdown": {
       "git": "https://github.com/etoccalino/meteor-accounts-ui-bootstrap-dropdown.git"
-    }
+    },
+    "spin": {}
   }
 }

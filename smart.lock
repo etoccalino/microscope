@@ -6,7 +6,8 @@
       "accounts-ui-bootstrap-dropdown": {
         "git": "https://github.com/etoccalino/meteor-accounts-ui-bootstrap-dropdown.git",
         "branch": "master"
-      }
+      },
+      "spin": {}
     },
     "packages": {
       "router": {
@@ -18,6 +19,11 @@
         "git": "https://github.com/etoccalino/meteor-accounts-ui-bootstrap-dropdown.git",
         "branch": "master",
         "commit": "25a3dfc292c9a164170fce44d94908bd6413b67f"
+      },
+      "spin": {
+        "git": "https://github.com/SachaG/meteor-spin.git",
+        "tag": "v0.2.0",
+        "commit": "fd3a2871a69442848b4b4e74f5e1ae28fa4a95a4"
       },
       "page-js-ie-support": {
         "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",
